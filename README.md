@@ -1,5 +1,5 @@
 # Lighthouse Labs Python Crash Course
-<h4> Projects and Exercises from the course </h4>
+<h4> Projects and Exercises from the course</h4>
 https://free-courses.lighthouselabs.ca/
 <br>
 <h5> Contents: </h5>
