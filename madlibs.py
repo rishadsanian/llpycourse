@@ -18,7 +18,7 @@ mainscreen="""
 
        type 0 for COLDPLAY
        type 1 for NURSERY RYHME
-       type 2 for QUOTEf
+       type 2 for QUOTE
 
        type 3 to EXIT
                            """
